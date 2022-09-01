@@ -1,0 +1,5 @@
+.idea/
+registry-tests.iml
+allure-results/
+target/
+**/**/config.properties
