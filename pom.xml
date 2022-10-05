@@ -14,6 +14,7 @@
         <junit-platform-suite.version>1.8.2</junit-platform-suite.version>
 
         <registry.steps.version>1.6.0.174</registry.steps.version>
+
     </properties>
 
     <dependencies>
