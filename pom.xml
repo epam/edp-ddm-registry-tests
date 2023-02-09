@@ -13,7 +13,7 @@
         <aspectj.version>1.9.7</aspectj.version>
         <junit-platform-suite.version>1.8.2</junit-platform-suite.version>
 
-        <registry.steps.version>1.6.0.182</registry.steps.version>
+        <registry.steps.version>1.6.0.184</registry.steps.version>
 
     </properties>
 
